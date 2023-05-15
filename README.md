@@ -17,4 +17,4 @@
   <img align="center" alt="Kellih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/KellihKey)
+![snake gif](https://github.com/kellihkey/kellihkey/blob/output/github-contribution-grid-snake.svg)
