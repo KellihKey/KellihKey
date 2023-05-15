@@ -1,4 +1,8 @@
-## Olá :D
+## Olá :D 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellihkey&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/kellihkey/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellihkey&layout=compact&langs_count=10&theme=gruvbox)](https://github.com/kellihkey/github-readme-stats)
 
 <div>
   <a href="mailto:Kevilly.silva06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
