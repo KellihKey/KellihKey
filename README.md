@@ -34,7 +34,6 @@ I'm looking for a chance to have my first experience as an professional dev and 
   </br>
 <div align="center">
   <a href="mailto:Kevilly.silva06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/AboboraTop" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
   ##
   
