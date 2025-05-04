@@ -37,6 +37,6 @@ I'm looking for a chance to have my first experience as an professional dev and 
   
   ##
   
-  ![Snake animation](https://github.com/kellihkey/kellihkey/blob/output/github-contribution-grid-snake.svg) 
+  [Snake animation](https://github.com/kellihkey/kellihkey/blob/output/github-contribution-grid-snake.svg) 
   </div>
   </div>
